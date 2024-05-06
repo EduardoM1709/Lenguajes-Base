@@ -1,9 +1,4 @@
-# Restaurant/Food Delivery App UI kit in Flutter
+# Kit de interfaz de usuario de la aplicación de Restaurante en Flutter
 
-We build Flutter Restaurant/Food delivery app UI Kit to help you build a nice clean app for restaurant using flutter which runs both Android and iOS. This kit comes packed with 25 beautifully designed screens and a hearty portion of deliciously responsive components. Also, we have skeleton loading and have separate components for both Android and iOS so that you feel the native experience.
+Diseñamos el kit de interfaz de usuario para la aplicación de Restaurante con el propósito de facilitar la creación de una aplicación atractiva y funcional para restaurantes, utilizando Flutter para garantizar su compatibilidad con Android e iOS. Este kit incluye 25 pantallas meticulosamente diseñadas y una amplia variedad de componentes altamente receptivos. Además, ofrecemos carga de esqueleto y componentes individuales específicos para cada plataforma, lo que proporciona una experiencia de usuario nativa completa.
 
-## Screenshots
-
-![All pages](/preview.png)
-
-![Preview](/foodly_thun.png)
